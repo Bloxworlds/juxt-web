@@ -15,8 +15,10 @@
         }
     },
     "account_db": {
-        "uri": "mongodb://localhost:27017",
-        "database": "name",
+        "uri": "mongodb+srv://d:tails0611@neeeee.1zo9l.mongodb.net/?retryWrites=true&w=majority
+
+",
+        "database": "juxt",
         "options": {
             "useNewUrlParser": true,
             "useUnifiedTopology": true
