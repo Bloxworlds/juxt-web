@@ -15,9 +15,7 @@
         }
     },
     "account_db": {
-        "uri": "mongodb+srv://d:tails0611@neeeee.1zo9l.mongodb.net/?retryWrites=true&w=majority
-
-",
+        "uri": "mongodb+srv://d:tails0611@neeeee.1zo9l.mongodb.net/?retryWrites=true&w=majority",
         "database": "juxt",
         "options": {
             "useNewUrlParser": true,
